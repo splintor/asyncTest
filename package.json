@@ -1,0 +1,22 @@
+{
+  "name": "asynctest",
+  "version": "1.0.0",
+  "description": "Small project to test async tests with wallaby",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "typescript": "^3.1.5",
+    "wix-eventually": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^20.0.4",
+    "nock": "^10.0.1",
+    "ts-jest": "^23.10.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
